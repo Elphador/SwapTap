@@ -10,10 +10,10 @@ git clone https://github.com/Elphador/SwapTap.git
 cd SwapTap
 python3 swap-tap.py
 ```
-### CTRL + C to end the program 
+CTRL + C to end the program 
 
 
-##[Telegram](https://t.me/swaptapnews)
+## [Telegram](https://t.me/swaptapnews)
 
 
 
