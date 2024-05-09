@@ -4,10 +4,16 @@ Tap swap telegram bot automation tool
 ![](image/example2.png)
 
 ## **Usage**
-Clone the Repository 
+Clone the Repository and run the program 
 ```bash
 git clone https://github.com/Elphador/SwapTap.git
 cd SwapTap
-ppython3 swap-tap.py
+python3 swap-tap.py
 ```
+### CTRL + C to end the program 
+
+
+##[Telegram](https://t.me/swaptapnews)
+
+
 
