@@ -13,7 +13,7 @@ python3 swap-tap.py
 CTRL + C to end the program 
 
 
-## [Telegram](https://t.me/swaptapnews)
+## [Telegram Support Channel ](https://t.me/swaptapnews)
 
 
 
