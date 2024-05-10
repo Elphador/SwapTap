@@ -1,6 +1,6 @@
 # SwapTap
 Tap swap telegram bot automation tool 
-![](image/example1.png)
+![](image/Screenshot_20240510_104508_Termux.png)
 ![](image/example2.png)
 
 ## **Usage**
@@ -17,6 +17,8 @@ CTRL + C to end the program
 No one is responsible for anything happens by using this tool 
 
 ## [Telegram Support Channel ](https://t.me/swaptapnews)
+
+
 
 
 
